@@ -1,0 +1,26 @@
+.banner {
+    text-align: center;
+}
+
+button {
+    font: Raleway;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 18.78px;
+    text-align: center;
+    color: #31a8dd;
+    margin: 5px;
+    width: Fixed (326px)px;
+    height: Hug (57px)px;
+    top: 473px;
+    left: 557px;
+    padding: 19px 91px 19px 91px;
+    gap: 31px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid;
+    border-image-source: linear-gradient(180deg, #3BA1CD 0%, #1572B7 100%);
+
+
+
+}
